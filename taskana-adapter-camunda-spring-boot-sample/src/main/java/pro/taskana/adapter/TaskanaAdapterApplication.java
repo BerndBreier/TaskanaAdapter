@@ -17,6 +17,7 @@ public class TaskanaAdapterApplication {
 
   public static void main(String[] args) {
     SpringApplication.run(TaskanaAdapterApplication.class, args);
+
   }
 
   // this method prevents checkstyle from thinking this class is a utility class
